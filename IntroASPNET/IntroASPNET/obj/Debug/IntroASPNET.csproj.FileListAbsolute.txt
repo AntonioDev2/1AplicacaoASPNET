@@ -1,0 +1,6 @@
+C:\Users\antonio\Documents\Desenvolvimento\Plataformas\ASPNET\Projetos\1AplicacaoASPNET\IntroASPNET\IntroASPNET\bin\IntroASPNET.dll.config
+C:\Users\antonio\Documents\Desenvolvimento\Plataformas\ASPNET\Projetos\1AplicacaoASPNET\IntroASPNET\IntroASPNET\bin\IntroASPNET.dll
+C:\Users\antonio\Documents\Desenvolvimento\Plataformas\ASPNET\Projetos\1AplicacaoASPNET\IntroASPNET\IntroASPNET\bin\IntroASPNET.pdb
+C:\Users\antonio\Documents\Desenvolvimento\Plataformas\ASPNET\Projetos\1AplicacaoASPNET\IntroASPNET\IntroASPNET\obj\Debug\IntroASPNET.csprojResolveAssemblyReference.cache
+C:\Users\antonio\Documents\Desenvolvimento\Plataformas\ASPNET\Projetos\1AplicacaoASPNET\IntroASPNET\IntroASPNET\obj\Debug\IntroASPNET.dll
+C:\Users\antonio\Documents\Desenvolvimento\Plataformas\ASPNET\Projetos\1AplicacaoASPNET\IntroASPNET\IntroASPNET\obj\Debug\IntroASPNET.pdb
